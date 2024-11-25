@@ -8,7 +8,7 @@ A simple project to demonstrate how to create XAML Islands applications with `Te
 * Flexible & friendly (i.e. UWP-like) title bar customization.
 * Supports XAML hot reloading.
 * Single-exe output (a single UWP exe, unlike the [official guide](https://learn.microsoft.com/en-us/windows/apps/desktop/modernize/host-custom-control-with-xaml-islands-cpp) which requires one UWP dll + one Win32 exe).
-* Smooth window resizing (works partially; might not work for too old or too new OSs).
+* Smooth window resizing (fully supported for multiple windows; might not work for too old or too new OSs).
 
 #### Unimplemented
 
